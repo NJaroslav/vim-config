@@ -3,3 +3,5 @@
 This is my vim configuration
 
 if you want to try just copy init.vimrc into your ~/.vimrc
+
+[Intro](https://missing.csail.mit.edu/2020/editors/) 
