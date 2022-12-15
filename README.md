@@ -1,11 +1,13 @@
 # VIM
-![image](https://user-images.githubusercontent.com/108277031/200780927-e75febec-9c69-4f1c-824d-ca7aeba93ec1.png)
-This is my vim configuration
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png)
 
-copy init.vimrc into your ~/.vimrc
+## How to set it up: 
+- copy ```init.vimrc``` into your ```~/.vimrc```
 
-[Intro](https://missing.csail.mit.edu/2020/editors/) 
 
-[Vim in use](https://pragprog.com/titles/dnvim2/practical-vim-second-edition/) - book
+## Materials:
+- [Intro](https://missing.csail.mit.edu/2020/editors/) 
 
-[Game to practice](https://vim-adventures.com/) 
+- [Vim in use](https://pragprog.com/titles/dnvim2/practical-vim-second-edition/) - book
+
+- [Game to practice](https://vim-adventures.com/) 
