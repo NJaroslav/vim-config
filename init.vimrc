@@ -39,9 +39,8 @@ inoremap <silent><expr> <Tab>
       \ <SID>check_back_space() ? "\<Tab>" :
       \ coc#refresh()
 
-inoremap <c-b> <Esc>:NERDTreeToggle<cr>
-nnoremap <c-b> <Esc>:NERDTreeToggle<cr>
 
+inoremap jk <esc>
 nnoremap <Left>  :echoe "Use h"<CR>
 nnoremap <Right> :echoe "Use l"<CR>
 nnoremap <Up>    :echoe "Use k"<CR>
